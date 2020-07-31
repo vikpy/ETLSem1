@@ -1,2 +1,2 @@
 # ETLSem1
-Course reference materials during my mtech course in NMIMS
+Course reference materials during my mtech course
